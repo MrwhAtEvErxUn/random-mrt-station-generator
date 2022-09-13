@@ -32,3 +32,10 @@ button:hover{
   border: 1px solid grey;
   border-radius: 8px;
 }
+img{
+  -khtml-user-select: none;
+  -o-user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
